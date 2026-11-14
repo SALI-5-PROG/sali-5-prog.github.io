@@ -1,7 +1,0 @@
-PORTFOLIO PROFESSIONNEL — SALIFOU Ibouraïma Okpèyèmi
-
-1. Décompressez le dossier.
-2. Ouvrez index.html dans un navigateur (Chrome, Edge, Firefox).
-3. Le site est actuellement une première maquette locale : il n'est pas encore publié sur Internet.
-4. La photo de profil et les coordonnées sont volontairement laissées à compléter.
-5. Les images du dossier assets sont utilisées par le site. Ne les déplacez pas séparément.
